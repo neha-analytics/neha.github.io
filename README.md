@@ -29,7 +29,7 @@ Currently working on **liquidity risk models** and **data pipelines** for bankin
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/nehamishra)
 [![Email](https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail)](mailto:neham9009@example.com)
 
@@ -37,7 +37,7 @@ Currently working on **liquidity risk models** and **data pipelines** for bankin
 
 # Projects
 
-### 🔍 Surveillance Alert System based on Image Captioning using Deep Learning Approaches  
+### Surveillance Alert System based on Image Captioning using Deep Learning Approaches  
 
 In the field of **image analytics**, semantic segmentation can determine the objects in an image, but fails to explain the **relationships** between those objects.  
 Our project tackled this challenge by developing an **Image Captioning System** using a **CNN–LSTM architecture** and benchmarking it against **GPT-2–generated captions**.
@@ -50,8 +50,7 @@ The final model could **generate descriptive captions** and **trigger alerts** w
 
 <div align="center">
 
-[![Code](https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7-SuperKart-Store-Sales-Prediction)  
-[![Medium Article](https://img.shields.io/badge/📰%20Read%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
+[![Code](https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neha-analytics/7-SuperKart-Store-Sales-Prediction)  [![Medium Article](https://img.shields.io/badge/📰%20Read%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
 
 </div>
 
