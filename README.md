@@ -34,7 +34,6 @@ My journey has led me through various industries, from Supply Chain and Business
 
 # Projects
 
----
 
 ### Building an image classification model using Tensorflow
 
