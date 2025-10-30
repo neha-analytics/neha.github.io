@@ -35,6 +35,8 @@ Currently working on **liquidity risk models** and **data pipelines** for bankin
 
 ---
 
+### 📈 ##### Projects
+
 ### 🔍 Surveillance Alert System based on Image Captioning using Deep Learning Approaches  
 
 In the field of **image analytics**, semantic segmentation can determine the objects in an image, but fails to explain the **relationships** between those objects.  
