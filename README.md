@@ -41,7 +41,7 @@ Identifying plant species via a model trained on a set of images for certain spe
 
 <div align="left">
 
-[![Code](https://img.shields.io/badge/%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neha-analytics/6-Plant-Seedling-Classification-ComputerVision-Problem)  [![Medium Article](https://img.shields.io/badge/%20Medium%20Article-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)  [![API](https://img.shields.io/badge/%20API-000000?style=for-the-badge&logo=api&logoColor=white)](https://huggingface.co/spaces/neham9009/SuperkartFrontend)
+[![Code](https://img.shields.io/badge/%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neha-analytics/6-Plant-Seedling-Classification-ComputerVision-Problem)  [![Medium Article](https://img.shields.io/badge/%20Medium%20Article-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
 ---
 
 ### Store sales prediction
