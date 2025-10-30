@@ -23,11 +23,6 @@ Currently working on **liquidity risk models** and **data pipelines** for bankin
 | **ML & Analytics** | Scikit-learn, Pandas, Power BI |
 | **Version Control** | Git, GitHub, CI/CD |
 
----
-
-### 📈 Featured Projects
-
----
 
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/nehamishra)
@@ -37,20 +32,21 @@ Currently working on **liquidity risk models** and **data pipelines** for bankin
 
 # Projects
 
-### Surveillance Alert System based on Image Captioning using Deep Learning Approaches  
+### Building an image classification model using Tensorflow
 
-In the field of **image analytics**, semantic segmentation can determine the objects in an image, but fails to explain the **relationships** between those objects.  
-Our project tackled this challenge by developing an **Image Captioning System** using a **CNN–LSTM architecture** and benchmarking it against **GPT-2–generated captions**.
+Identifying plant species via a model trained on a set of images for certain species. 
 
-We trained the model on a **Kaggle dataset** of **8,092 Flickr images**, each with 5 descriptive captions.  
-To tailor the model for real-world surveillance, we manually curated and added **568 surveillance images** with custom captions.  
-The final model could **generate descriptive captions** and **trigger alerts** whenever captions contained *red-flag* words—helping stakeholders respond to critical visual events in real time.
+### Store sales prediction
 
----
+A sales forecast is a prediction of future sales revenue based on historical data, industry trends, and the status of the current sales pipeline. Businesses use the sales forecast to estimate weekly, monthly, quarterly, and annual sales totals. A company needs to make an accurate sales forecast as it adds value across an organization and helps the different verticals to chalk out their future course of action.
+
+Forecasting helps an organization plan its sales operations by region and provides valuable insights to the supply chain team regarding the procurement of goods and materials. An accurate sales forecast process has many benefits which include improved decision-making about the future and reduction of sales pipeline and forecast risks. Moreover, it helps to reduce the time spent in planning territory coverage and establish benchmarks that can be used to assess trends in the future.
+
 
 <div align="center">
 
-[![Code](https://img.shields.io/badge/%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neha-analytics/7-SuperKart-Store-Sales-Prediction)  [![Medium Article](https://img.shields.io/badge/%20Medium%20Article-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
+[![Code](https://img.shields.io/badge/%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neha-analytics/7-SuperKart-Store-Sales-Prediction)  [![Medium Article](https://img.shields.io/badge/%20Medium%20Article-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)  [![API](https://img.shields.io/badge/%20API-000000?style=for-the-badge&logo=api&logoColor=white)](https://huggingface.co/spaces/neham9009/SuperkartFrontend)
+
 
 </div>
 
