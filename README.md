@@ -1,9 +1,11 @@
-# Hi, I'm Neha Mishra  
+# About me
 
-### Data & Analytics Engineer | Risk Modeling | Python | Azure | Power BI  
+Hi, I'm Neha Mishra  
 
-Welcome to my GitHub! I’m passionate about using **data engineering, analytics, and machine learning** to solve real-world financial and operational problems.  
-Currently working on **liquidity risk models** and **data pipelines** for banking analytics.
+Data & Analytics Engineer | Machine Learning | SQL| Python | Azure | Power BI  
+
+Welcome to my GitHub! I’m passionate about using data engineering, analytics, and machine learning to solve business critical problems and create strategy to implement the findings.
+My journey has led me through various industries, from Supply Chain and Business oprations to Finance and Retail. At Entain, I leveraged Product Analytics to drive customer engagement strategies in the online gambling sector, providing CX Product managers with crucial insights.
 
 ---
 
