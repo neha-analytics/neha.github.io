@@ -50,7 +50,7 @@ The final model could **generate descriptive captions** and **trigger alerts** w
 
 <div align="center">
 
-[![Code](https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neha-analytics/7-SuperKart-Store-Sales-Prediction)  [![Medium Article](https://img.shields.io/badge/📰%20Read%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
+[![Code](https://img.shields.io/badge/%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neha-analytics/7-SuperKart-Store-Sales-Prediction)  [![Medium Article](https://img.shields.io/badge/%20Medium%20Article-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
 
 </div>
 
