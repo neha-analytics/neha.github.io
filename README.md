@@ -7,7 +7,7 @@ Currently working on **liquidity risk models** and **data pipelines** for bankin
 
 ---
 
-### 🚀 What I Do
+### What I Do
 - 🧠 Build **data pipelines** in Databricks and Azure
 - 📊 Design **predictive models** for financial risk and operations
 - 🧾 Create **Power BI dashboards** for business intelligence
@@ -15,7 +15,7 @@ Currently working on **liquidity risk models** and **data pipelines** for bankin
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 | Category | Tools |
 |-----------|--------|
 | **Languages** | Python, SQL, DAX |
@@ -32,9 +32,16 @@ Currently working on **liquidity risk models** and **data pipelines** for bankin
 
 # Projects
 
+---
+
 ### Building an image classification model using Tensorflow
 
 Identifying plant species via a model trained on a set of images for certain species. 
+
+<div align="left">
+
+[![Code](https://img.shields.io/badge/%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neha-analytics/6-Plant-Seedling-Classification-ComputerVision-Problem)  [![Medium Article](https://img.shields.io/badge/%20Medium%20Article-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)  [![API](https://img.shields.io/badge/%20API-000000?style=for-the-badge&logo=api&logoColor=white)](https://huggingface.co/spaces/neham9009/SuperkartFrontend)
+---
 
 ### Store sales prediction
 
@@ -42,13 +49,9 @@ A sales forecast is a prediction of future sales revenue based on historical dat
 
 Forecasting helps an organization plan its sales operations by region and provides valuable insights to the supply chain team regarding the procurement of goods and materials. An accurate sales forecast process has many benefits which include improved decision-making about the future and reduction of sales pipeline and forecast risks. Moreover, it helps to reduce the time spent in planning territory coverage and establish benchmarks that can be used to assess trends in the future.
 
-
-<div align="center">
+<div align="left">
 
 [![Code](https://img.shields.io/badge/%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neha-analytics/7-SuperKart-Store-Sales-Prediction)  [![Medium Article](https://img.shields.io/badge/%20Medium%20Article-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)  [![API](https://img.shields.io/badge/%20API-000000?style=for-the-badge&logo=api&logoColor=white)](https://huggingface.co/spaces/neham9009/SuperkartFrontend)
-
+---
 
 </div>
-
-⭐️ *“Data is the new capital — make it flow wisely.”*
-
