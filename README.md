@@ -35,7 +35,7 @@ Currently working on **liquidity risk models** and **data pipelines** for bankin
 
 ---
 
-### 📈 ##### Projects
+# Projects
 
 ### 🔍 Surveillance Alert System based on Image Captioning using Deep Learning Approaches  
 
