@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Neha Mishra  
+# Hi, I'm Neha Mishra  
 
-### 💡 Data & Analytics Engineer | Risk Modeling | Python | Azure | Power BI  
+### Data & Analytics Engineer | Risk Modeling | Python | Azure | Power BI  
 
 Welcome to my GitHub! I’m passionate about using **data engineering, analytics, and machine learning** to solve real-world financial and operational problems.  
 Currently working on **liquidity risk models** and **data pipelines** for banking analytics.
@@ -27,7 +27,6 @@ Currently working on **liquidity risk models** and **data pipelines** for bankin
 
 ### 📈 Featured Projects
 
-
 ---
 
 ### 📫 Connect With Me
@@ -35,11 +34,6 @@ Currently working on **liquidity risk models** and **data pipelines** for bankin
 [![Email](https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail)](mailto:neham9009@example.com)
 
 ---
-
-⭐️ *“Data is the new capital — make it flow wisely.”*
-
-
-
 
 ### 🔍 Surveillance Alert System based on Image Captioning using Deep Learning Approaches  
 
@@ -58,3 +52,6 @@ The final model could **generate descriptive captions** and **trigger alerts** w
 [![Medium Article](https://img.shields.io/badge/📰%20Read%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
 
 </div>
+
+⭐️ *“Data is the new capital — make it flow wisely.”*
+
